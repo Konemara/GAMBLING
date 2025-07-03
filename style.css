@@ -1,0 +1,36 @@
+.welcome-box{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+}
+
+.forum{
+    .Title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    padding: 10px;
+    text-align: center;
+    background-color: #121b29;
+    color: white;
+    }
+    .qotd{
+        .Kursy{
+            text-align: left;
+            font-family: 'Courier New', Courier, monospace;
+        font-size: medium;
+        padding: 5px;
+        background-color: #121b29;
+        color: white;
+        }
+        .Title{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: medium;
+        padding: 5px;
+        text-align: center;
+        background-color: #121b29;
+        color: white;
+        }
+    }
+}
